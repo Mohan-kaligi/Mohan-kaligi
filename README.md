@@ -1,6 +1,6 @@
-## Hi 👋, I'm Mohan Kaligi
+  ##                                                   Hi 👋, I'm Mohan Kaligi
 
-🚀 Aspiring Software Developer | Java Full Stack | Backend Enthusiast
+  🚀 Aspiring Software Developer | Java Full Stack | Backend Enthusiast
 
 ---
 
