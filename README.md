@@ -23,25 +23,41 @@
 
 
 
-### 📌 Featured Project: 🔗 ** MedVault – Digital Healthcare Management System**
+## 📌 Featured Project: MedVault – Digital Healthcare Management System
 
-MedVault is a secure, full-stack healthcare web application designed to streamline interactions between Patients, Doctors, and Admins, ensuring efficient appointment management, medical record handling, and data privacy.
+**MedVault** is a secure, full-stack healthcare web application designed to streamline interactions between **Patients**, **Doctors**, and **Admins**, ensuring efficient appointment management, medical record handling, and strong data privacy.
 
-✨ Key Features:
+### ✨ Key Features
 
-🧑‍⚕️ Role-Based Dashboards – Dedicated interfaces for Patients, Doctors, and Admins
-📅 Smart Appointment Management – Book, confirm, complete, and track appointments seamlessly
-📄 Digital Medical Records & Prescriptions – Doctors upload prescriptions and reports securely
-🔐 Privacy-First Access Control (RBAC) – Patients control doctor access to their medical data
-📧 Automated Email Notifications – Alerts for approvals, appointments, prescriptions, and password resets
-🛡 Secure Authentication & Password Recovery – Forgot-password and token-based reset flow
-📊 Admin Monitoring Dashboard – View doctor approvals, system stats, and completed appointments
+- 🧑‍⚕️ **Role-Based Dashboards**  
+  Dedicated interfaces for Patients, Doctors, and Admins
 
+- 📅 **Smart Appointment Management**  
+  Book, confirm, complete, and track appointments seamlessly
+
+- 📄 **Digital Medical Records & Prescriptions**  
+  Doctors upload prescriptions and reports securely
+
+- 🔐 **Privacy-First Access Control (RBAC)**  
+  Patients control doctor access to their medical data
+
+- 📧 **Automated Email Notifications**  
+  Alerts for approvals, appointments, prescriptions, and password resets
+
+- 🛡 **Secure Authentication & Password Recovery**  
+  Forgot-password and token-based reset flow
+
+- 📊 **Admin Monitoring Dashboard**  
+  View doctor approvals, system statistics, and completed appointments
+
+🔗 **Project Repository:**  
 👉 https://github.com/Mohan-kaligi/medvault-healthcare-system
+
 ---
 
 ### 📫 Connect with Me
-- 💼 LinkedIn: <linkedin.com/in/mohan-kaligi-539354369>
+- 💼 LinkedIn: [Mohan Kaligi](https://www.linkedin.com/in/mohan-kaligi-539354369)
+
 - 📧 Email: <mohankaligi0003@gmail.com>
 
 ---
